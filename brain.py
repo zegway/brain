@@ -151,7 +151,7 @@ if __name__ == '__main__':
             raise Exception(f"{arg} is not a valid {fields[imap[i]]} argument.")
 
     
-    app.serve(fields["host"], fields["port"], debug=True)
+    app.serve(fields["host"], int(fields["port"]), debug=True)
     
 
 
