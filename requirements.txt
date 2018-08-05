@@ -1,0 +1,12 @@
+apistar==0.5.40
+certifi==2018.4.16
+chardet==3.0.4
+click==6.7
+idna==2.7
+Jinja2==2.10
+MarkupSafe==1.0
+PyYAML==3.13
+requests==2.19.1
+urllib3==1.23
+Werkzeug==0.14.1
+whitenoise==3.3.1
